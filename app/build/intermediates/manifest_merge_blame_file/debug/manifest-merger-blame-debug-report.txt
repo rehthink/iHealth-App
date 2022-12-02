@@ -1,0 +1,117 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.imagepro"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:5:22-62
+12
+13    <uses-feature
+13-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:7:5-9:36
+14        android:name="android.hardware.camera"
+14-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:8:9-47
+15        android:required="false" />
+15-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:9:9-33
+16    <uses-feature
+16-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:10:5-12:36
+17        android:name="android.hardware.camera.autofocus"
+17-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:11:9-57
+18        android:required="false" />
+18-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:12:9-33
+19    <uses-feature
+19-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:13:5-15:36
+20        android:name="android.hardware.camera.front"
+20-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:14:9-53
+21        android:required="false" />
+21-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:15:9-33
+22    <uses-feature
+22-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:16:5-18:36
+23        android:name="android.hardware.camera.front.autofocus"
+23-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:17:9-63
+24        android:required="false" />
+24-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:18:9-33
+25
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+28    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+29
+30    <application
+30-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:20:5-54:19
+31        android:allowBackup="true"
+31-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:21:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.3.1] C:\Users\FARHAN KHAN\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:22:9-43
+35        android:label="@string/app_name"
+35-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:23:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:24:9-54
+37        android:supportsRtl="true"
+37-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:25:9-35
+38        android:testOnly="true"
+39        android:theme="@style/Theme.ImagePro" >
+39-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:26:9-46
+40        <activity
+40-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:27:9-33:20
+41            android:name="com.example.iHealth.UserInfoActivity"
+41-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:28:13-45
+42            android:exported="false" >
+42-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:29:13-37
+43            <meta-data
+43-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:30:13-32:36
+44                android:name="android.app.lib_name"
+44-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:31:17-52
+45                android:value="" />
+45-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:32:17-33
+46        </activity>
+47        <activity
+47-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:34:9-46:20
+48            android:name="com.example.iHealth.LoginActivity"
+48-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:35:13-42
+49            android:exported="true" >
+49-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:36:13-36
+50            <intent-filter>
+50-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:37:13-41:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:38:17-69
+51-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:38:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:40:17-77
+53-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:40:27-74
+54            </intent-filter>
+55
+56            <meta-data
+56-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:30:13-32:36
+57                android:name="android.app.lib_name"
+57-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:31:17-52
+58                android:value="" />
+58-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:32:17-33
+59        </activity>
+60        <activity android:name="com.example.iHealth.CameraActivity" />
+60-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:47:9-52
+60-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:47:19-49
+61        <activity android:name="com.example.iHealth.MainActivity" >
+61-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:48:9-49:20
+61-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:48:19-47
+62        </activity>
+63
+64        <meta-data
+64-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:51:9-53:57
+65            android:name="preloaded_fonts"
+65-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:52:13-43
+66            android:resource="@array/preloaded_fonts" />
+66-->C:\Users\FARHAN KHAN\Downloads\Melanoma_Detection_App-master\Melanoma_Detection_App-master\app\src\main\AndroidManifest.xml:53:13-54
+67    </application>
+68
+69</manifest>

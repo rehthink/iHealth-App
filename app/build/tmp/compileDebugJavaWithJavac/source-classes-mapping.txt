@@ -1,0 +1,34 @@
+com/example/iHealth/databinding/ActivityLoginBinding.java
+ com.example.iHealth.databinding.ActivityLoginBinding
+com/example/iHealth/MainActivity.java
+ com.example.iHealth.MainActivity
+ com.example.iHealth.MainActivity$1
+ com.example.iHealth.MainActivity$2
+ com.example.iHealth.MainActivity$3
+ com.example.iHealth.MainActivity$4
+com/example/iHealth/databinding/FragmentUserInfoBinding.java
+ com.example.iHealth.databinding.FragmentUserInfoBinding
+com/example/iHealth/databinding/ActivityUserInfoBinding.java
+ com.example.iHealth.databinding.ActivityUserInfoBinding
+com/example/iHealth/imageClassification.java
+ com.example.iHealth.imageClassification
+com/example/iHealth/databinding/ActivityCameraBinding.java
+ com.example.iHealth.databinding.ActivityCameraBinding
+com/example/iHealth/databinding/ActivityMainBinding.java
+ com.example.iHealth.databinding.ActivityMainBinding
+com/example/iHealth/CameraActivity.java
+ com.example.iHealth.CameraActivity
+ com.example.iHealth.CameraActivity$1
+com/example/iHealth/Utils/SessionManager.java
+ com.example.iHealth.Utils.SessionManager
+com/example/iHealth/BuildConfig.java
+ com.example.iHealth.BuildConfig
+com/example/iHealth/Fragments/UserInfoFragment.java
+ com.example.iHealth.Fragments.UserInfoFragment
+com/example/iHealth/UserInfoActivity.java
+ com.example.iHealth.UserInfoActivity
+ com.example.iHealth.UserInfoActivity$1
+ com.example.iHealth.UserInfoActivity$2
+com/example/iHealth/LoginActivity.java
+ com.example.iHealth.LoginActivity
+ com.example.iHealth.LoginActivity$1

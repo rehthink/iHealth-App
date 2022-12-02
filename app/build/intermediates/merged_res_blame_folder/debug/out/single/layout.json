@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_user_info.xml",
+        "source": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\src\\main\\res\\layout\\fragment_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_info.xml",
+        "source": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\FARHAN KHAN\\Downloads\\Melanoma_Detection_App-master\\Melanoma_Detection_App-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    }
+]
